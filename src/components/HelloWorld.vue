@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <p>我是master分支</p>
+    <p>我是dev2分支</p>
     <h1>冲突了吧</h1>
     <h1>哎哟喂</h1>
     <p>哈哈一哈哈</p>
