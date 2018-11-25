@@ -1,9 +1,6 @@
 <template>
   <div class="hello">
     <p>我是dev2分支</p>
-    <h1>冲突了吧</h1>
-    <h1>哎哟喂</h1>
-    <p>哈哈一哈哈</p>
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
     <el-rate
