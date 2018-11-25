@@ -8,6 +8,7 @@
       @change="handleChange"
       show-text>
     </el-rate>
+    <p>天下之大，无奇不有</p>
   </div>
 </template>
 
