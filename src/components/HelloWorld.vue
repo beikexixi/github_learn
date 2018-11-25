@@ -1,5 +1,6 @@
 <template>
   <div class="hello">
+    <p>我是master分支</p>
     <h1>冲突了吧</h1>
     <h1>哎哟喂</h1>
     <h1>{{ msg }}</h1>
