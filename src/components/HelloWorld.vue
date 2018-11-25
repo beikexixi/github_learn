@@ -9,6 +9,7 @@
       show-text>
     </el-rate>
     <p>天下之大，无奇不有</p>
+    <h1>世间万物，必有始终</h1>
   </div>
 </template>
 
